@@ -9,7 +9,7 @@
   
    <p>
      I'm looking forward to embark on the next major chapter in my life. I am passionate about solving challenging problems and learning new skills. My hobbies includes playing sports and programming fun things!
-     <p>
+   <p>
 </div>
 
 
@@ -41,4 +41,5 @@
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/abel-brianvil-ba4320170/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/abel-brianvil" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
+<a href="mailto:abrianvil@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
