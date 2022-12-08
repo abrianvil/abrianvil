@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 <h3 align="center">
-  Hey! My name is Abel, I am a Software Engineer 
+  Hey! My name is Abel Brianvil, I am a Software Engineer 
 </h3>
 
 
