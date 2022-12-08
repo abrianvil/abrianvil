@@ -2,7 +2,7 @@
 <div align='center'>
   
 <h1>
-  Hey! My name is Abel Brianvil, I am a Software Engineer 
+  Hey! My name is Abel Brianvil, I am a Software Engineer!!
 </h1>
   
  <image src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width="600" height="400" />
@@ -41,5 +41,5 @@
 ## Let's Get Connected!
 <a href="https://www.linkedin.com/in/abel-brianvil-ba4320170/" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://angel.co/u/abel-brianvil" target="_blank">![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)</a>
-<a href="mailto:dev.abelbrianvil@gmail.com" target="_blank">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:dev.abelbrianvil@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
