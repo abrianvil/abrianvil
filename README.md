@@ -25,7 +25,9 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-
+![Abel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abrianvil&theme=omni&custom_title=Languages&langs_count=3)
+![Abel's GitHub stats](https://github-readme-stats.vercel.app/api?username=abrianvil&count_private=true&theme=omni&custom_title=Stats&hide=contribs&line_height=32)
+</br>
 
 
 ## Let's Get Connected!
