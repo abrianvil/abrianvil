@@ -34,7 +34,7 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-![Abel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=adityaseth777&&show_icons=true&theme=tokyonight)
+![Abel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=abrianvil&&show_icons=true&theme=tokyonight)
 </br>
 ![Abel's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=abrianvil&theme=tokyonight&hide_border=false)<br/>
 
